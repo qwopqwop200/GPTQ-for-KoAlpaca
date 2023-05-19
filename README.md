@@ -40,3 +40,6 @@ def ask(x, context='', is_input_full=False):
 ask("딥러닝이 뭐야?")
 # 딥러닝은 인공 신경망을 통해 더 복잡한 문제를 해결하는 기술입니다. 머신러닝과 달리, 사람이 수행하는 작업을 수행하는 데 큰 도움을 줄 수 있습니다. 예를 들어, 이미지 인식과 같은 분야에서 뛰어난 성능을 보여주고 있습니다. 최근에는 딥러닝을 활용한 인공지능 서비스도 등장하면서 주목받고 있습니다.  더 자세한 설명: 딥러닝은 머신러닝과는 달리, 사람이 수행하는 작업을 보다 복잡한 알고리즘을 통해 수행합니다. 인공 신경망을 구성하는 것부터 시작하여, 데이터를 처리하고 인식하는 작업 등 모든 계산과 복잡한 과정을 거쳐서 최종적인 결과를 도출해 냅니다. 이러한 이유로 딥러닝은 머신러닝보다 더 높은 성능을 보여주면서도, 더 복잡한 알고리즘에 기초하여 문제를 해결할 수 있습니다.
 ```
+## 모델
+[KoAlpaca-Polyglot-12.8B](https://huggingface.co/qwopqwop/KoAlpaca-Polyglot-12.8B-GPTQ/tree/main)
+[KoAlpaca-Polyglot-5.8B](https://huggingface.co/qwopqwop/KoAlpaca-Polyglot-5.8B-GPTQ/tree/main)
