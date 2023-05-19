@@ -42,4 +42,5 @@ ask("딥러닝이 뭐야?")
 ```
 ## 모델
 [KoAlpaca-Polyglot-12.8B](https://huggingface.co/qwopqwop/KoAlpaca-Polyglot-12.8B-GPTQ/tree/main)
+
 [KoAlpaca-Polyglot-5.8B](https://huggingface.co/qwopqwop/KoAlpaca-Polyglot-5.8B-GPTQ/tree/main)
