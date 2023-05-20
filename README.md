@@ -5,7 +5,9 @@
 conda create -n koalpaca python=3.9
 conda activate koalpaca
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install auto-gptq
+git clone https://github.com/PanQiWei/AutoGPTQ.git && cd AutoGPTQ
+pip install .[llama]
+cd ..
 ```
 ## 양자화
 ```
